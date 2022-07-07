@@ -6,6 +6,8 @@
 *.ko
 *.obj
 *.elf
+*.swp
+*.DS_Store
 
 # Linker output
 *.ilk
